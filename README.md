@@ -4,7 +4,7 @@
 The primary objective of this project is to analyze employee attrition to identify the key drivers behind why staff members leave the organization. By examining demographic, financial, and performance data, the project aims to provide actionable insights that help HR reduce turnover and improve employee retention.
 
 # DATASET USED
-<a href = 'https://github.com/anishjain042006-debug/HR-ANALYTICS-DASHBORAD-/blob/main/HR%20Data.xlsx%20-%20HR%20data.csv">dataset
+<a heref = 'https://github.com/anishjain042006-debug/HR-ANALYTICS-DASHBORAD-/blob/main/HR%20Data.xlsx%20-%20HR%20data.csv" >dataset</a>
 
 ## ❓ Business Questions
 -To meet the objective, the analysis must answer:
@@ -39,4 +39,8 @@ To go from raw data to a finished dashboard or report, follow these steps:
 •	Identify the "Pain Points" (e.g., "Sales Executives in the 25-34 age bracket have the highest attrition rate").
 •	Recommend interventions (e.g., "Improve work-life balance for roles requiring frequent travel").
 
+# dashborad interaction  file to see 
+<a heref = "https://github.com/anishjain042006-debug/HR-ANALYTICS-DASHBORAD-/blob/main/HR.twb"> view dashbord </a>
+# dashborad 
+https://github.com/anishjain042006-debug/HR-ANALYTICS-DASHBORAD-/blob/main/hr%20.jpeg
 
