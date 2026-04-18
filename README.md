@@ -42,5 +42,3 @@ To go from raw data to a finished dashboard or report, follow these steps:
 # dashborad interaction  file to see 
 <a heref = "https://github.com/anishjain042006-debug/HR-ANALYTICS-DASHBORAD-/blob/main/HR.twb"> view dashbord </a>
 # dashborad 
-https://github.com/anishjain042006-debug/HR-ANALYTICS-DASHBORAD-/blob/main/hr%20.jpeg
-
